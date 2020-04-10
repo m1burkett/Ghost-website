@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 18%;
+  position: fixed;
+}
+
+.parent-container {
+  text-align: center;
+}
+.ghost {
+}
